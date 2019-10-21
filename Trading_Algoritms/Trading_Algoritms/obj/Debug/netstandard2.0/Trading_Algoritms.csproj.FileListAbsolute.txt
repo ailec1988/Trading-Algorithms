@@ -1,0 +1,9 @@
+C:\Users\Ailec\source\repos\Trading_Algoritms\Trading_Algoritms\bin\Debug\netstandard2.0\Trading_Algoritms.deps.json
+C:\Users\Ailec\source\repos\Trading_Algoritms\Trading_Algoritms\bin\Debug\netstandard2.0\Trading_Algoritms.dll
+C:\Users\Ailec\source\repos\Trading_Algoritms\Trading_Algoritms\bin\Debug\netstandard2.0\Trading_Algoritms.pdb
+C:\Users\Ailec\source\repos\Trading_Algoritms\Trading_Algoritms\obj\Debug\netstandard2.0\Trading_Algoritms.csprojAssemblyReference.cache
+C:\Users\Ailec\source\repos\Trading_Algoritms\Trading_Algoritms\obj\Debug\netstandard2.0\Trading_Algoritms.csproj.CoreCompileInputs.cache
+C:\Users\Ailec\source\repos\Trading_Algoritms\Trading_Algoritms\obj\Debug\netstandard2.0\Trading_Algoritms.AssemblyInfoInputs.cache
+C:\Users\Ailec\source\repos\Trading_Algoritms\Trading_Algoritms\obj\Debug\netstandard2.0\Trading_Algoritms.AssemblyInfo.cs
+C:\Users\Ailec\source\repos\Trading_Algoritms\Trading_Algoritms\obj\Debug\netstandard2.0\Trading_Algoritms.dll
+C:\Users\Ailec\source\repos\Trading_Algoritms\Trading_Algoritms\obj\Debug\netstandard2.0\Trading_Algoritms.pdb
